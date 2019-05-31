@@ -1,0 +1,14 @@
+This is a model accompanying the paper
+
+A.R. Brazhe G.V. Maksimov, E. Mosekilde, O. Sosnovtseva "Excitation block in a
+nerve fibre model owing to potassium-dependent changes in myelin resistance",
+Journal of Interface Focus, (2010)
+
+To run the model, use command 
+
+./mnerve-gui.tcl sc1
+
+Stimulation protocols can be added with "+" sign in the "Stimulation" frame. 
+
+Click "Run" to run the simulation, click "Add plot" to make plots. Plots can be
+also made from the output file (just an ASCII file) with any plotting software.
